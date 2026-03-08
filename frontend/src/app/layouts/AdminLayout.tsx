@@ -14,7 +14,7 @@ import {
 
 import { useState } from "react";
 
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo.PNG";
 import adriano from "../../assets/adriano.jpeg";
 
 const menuItems = [
