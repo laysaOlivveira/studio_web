@@ -1,5 +1,5 @@
 import { useLocation } from "react-router-dom"
-import logo from "../assets/logo.png"
+import logo from "../assets/logo.PNG"
 import adriano from "../assets/adriano.jpeg"
 
 export function AdminHeader() {
